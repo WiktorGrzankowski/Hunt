@@ -7,4 +7,6 @@ one another on the road or find treasures,
 so in treasure_hunt.h template
 Encounter simulates such meetings. Using constant 
 expressions allows this program to be done fully during
-compilation time.
+compilation time. Variadic template for constexpr
+function expedition allows it to sequentially
+execute given encounters.
